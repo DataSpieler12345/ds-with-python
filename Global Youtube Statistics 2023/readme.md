@@ -1,4 +1,4 @@
-# End-to-End Data Analytics Project
+# # Global Youtube Statistics 2023
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
@@ -6,7 +6,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-1.0.0%2B-blue.svg)](https://pandas.pydata.org/)
 [![SQL Server](sql_server_logo.png)](https://www.microsoft.com/en-us/sql-server)
 
-🚀 Welcome to our end-to-end data analytics project! In this project, we will utilize Python and SQL to perform comprehensive data analysis. We'll leverage the Kaggle API to download datasets, utilize Pandas for data processing and cleaning, and load the data into a SQL server. Finally, we'll answer intriguing questions using SQL queries.
+🚀 Welcome to my end-to-end data analytics project! In this project, we will utilize Python and SQL to perform comprehensive data analysis. We'll leverage the Kaggle API to download datasets, utilize Pandas for data processing and cleaning, and load the data into a SQL server. Finally, we'll answer intriguing questions using SQL queries.
 
 ## Technologies Used
 - Python
